@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/seerah-php-wufud-tribes-atlas",
+  "description": "Year of Delegations (9 AH 'Am Al-Wufud) Arabian Tribal GIS Atlas (أطلس وفود القبائل العربية في عام الوفود)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
